@@ -1,6 +1,6 @@
 # Team Members:
-Devang Choudhary - 202418016
-Kelvi Bhesdadiya - 202418025
+* Devang Choudhary - 202418016
+* Kelvi Bhesdadiya - 202418025
 
 #  RAG-Powered Multimodal Story & Image Generator
 
