@@ -159,18 +159,6 @@ python rebuild_lore_index.py
 
 ---
 
-##  Run the Application
-
-### Launch Streamlit UI
-
-```bash
-streamlit run ui/app.py
-```
-
-Then open:
- [http://localhost:8501](http://localhost:8501)
-
----
 
 ## Example Workflows
 
