@@ -1,9 +1,8 @@
-Perfect. Below is a **clean, GitHub-ready README.md** you can directly copy–paste.
-It is written to look **serious, technical, and portfolio-grade** (not like an AI toy project).
+# Team Members:
+Devang Choudhary - 202418016
+Kelvi Bhesdadiya - 202418025
 
----
-
-# 🕵️‍♂️🔭 RAG-Powered Multimodal Story & Image Generator
+#  RAG-Powered Multimodal Story & Image Generator
 
 A **multimodal Retrieval-Augmented Generation (RAG)** system that can:
 
@@ -15,16 +14,16 @@ This project combines **text, images, vector search, and generative models** int
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### ✨ Text → Image (RAG-Enhanced)
+###  Text → Image (RAG-Enhanced)
 
 * User provides a simple text prompt
 * Relevant **universe lore** is retrieved using semantic search
 * An LLM enriches the prompt with world context
 * **Stable Diffusion** generates a cinematic image
 
-### 🖼️ Image → Story (RAG-Enhanced)
+###  Image → Story (RAG-Enhanced)
 
 * User uploads an image
 * **BLIP** captions the image
@@ -34,13 +33,13 @@ This project combines **text, images, vector search, and generative models** int
   * image content
   * retrieved lore
 
-### 🧠 Lore-Driven Consistency
+###  Lore-Driven Consistency
 
 * All generations are grounded in a shared **fictional universe**
 * Lore is stored as text files and indexed using embeddings
 * Updating lore automatically changes model behavior
 
-### 🖥️ Interactive UI
+###  Interactive UI
 
 * Built with **Streamlit**
 * Two tabs:
@@ -50,7 +49,7 @@ This project combines **text, images, vector search, and generative models** int
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 
 ```
                 ┌────────────────────┐
@@ -79,7 +78,7 @@ User Prompt ───▶│  RAG Retrieval     │◀─── Lore (.txt files)
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 | Task                  | Model                 | Library               |
 | --------------------- | --------------------- | --------------------- |
@@ -124,33 +123,33 @@ rag_mlops/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/<your-username>/rag-multimodal-story.git
 cd rag-multimodal-story
 ```
 
-### 2️⃣ Create & activate virtual environment
+###  Create & activate virtual environment
 
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate   # Windows
 ```
 
-### 3️⃣ Install dependencies
+###  Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-> ⚠️ Stable Diffusion works best with a GPU but also runs on CPU (slower).
+>  Stable Diffusion works best with a GPU but also runs on CPU (slower).
 
 ---
 
-## 🧱 Build Lore Index
+##  Build Lore Index
 
 Whenever you **edit or add lore files**, rebuild embeddings:
 
@@ -160,7 +159,7 @@ python rebuild_lore_index.py
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ### Launch Streamlit UI
 
@@ -169,11 +168,11 @@ streamlit run ui/app.py
 ```
 
 Then open:
-👉 [http://localhost:8501](http://localhost:8501)
+ [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 🧪 Example Workflows
+## Example Workflows
 
 ### Text → Image
 
