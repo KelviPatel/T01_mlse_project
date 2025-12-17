@@ -165,9 +165,10 @@ python rebuild_lore_index.py
 ### Text → Image
 
 ```
-Input:  "A detective standing on a rainy rooftop"
+Input:  "The young boy walked through the field, his eyes wide open as he took in the vast expanse of greenery and wildflowers. It was a beautiful day, the sun shining down on the open space, and a gentle breeze blowing through the grass. The boy felt a sense of freedom as he walked, the tall grass tickling his ankles and the warm sun on his face."
 Output: Image generated using lore-enriched prompt
 ```
+<img width="512" height="512" alt="ui_rag_image_20251217_150907" src="https://github.com/user-attachments/assets/a546506d-d596-4da5-918e-11c94f8a793f" />
 
 ### Image → Story
 
