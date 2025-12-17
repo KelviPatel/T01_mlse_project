@@ -57,7 +57,7 @@ with tab1:
             out_path = os.path.join("outputs", "images", filename)
 
             with st.spinner("Generating image with Stable Diffusion..."):
-                saved_path = generate_story_from_image(enriched_prompt, output_path=out_path)
+                    saved_path = generate_image(enriched_prompt, output_path=out_path)
 
             st.success(f"Image generated and saved to: `{saved_path}`")
 

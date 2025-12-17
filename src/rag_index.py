@@ -1,7 +1,5 @@
 from typing import List, Dict, Any
-
 import chromadb
-
 from src.lore_loader import load_and_chunk_lore
 from src.embedings import embed_texts, embed_query
 
