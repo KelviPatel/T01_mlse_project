@@ -178,6 +178,9 @@ Output: Caption + sci-fi noir short story
 
 ---
 
+<img width="1920" height="3189" alt="image" src="https://github.com/user-attachments/assets/42a0c84c-44ec-4cde-bcc0-ea34371c1b0f" />
+
+
 ## Why This Project Is Interesting
 
 * Demonstrates **RAG beyond QA** (creative generation)
