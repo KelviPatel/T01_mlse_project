@@ -177,6 +177,7 @@ Output: Caption + sci-fi noir short story
 ```
 
 ---
+<img width="959" height="530" alt="image" src="https://github.com/user-attachments/assets/85285a8b-98b5-49b3-8471-25a2910c7ea8" />
 
 <img width="1920" height="3189" alt="image" src="https://github.com/user-attachments/assets/42a0c84c-44ec-4cde-bcc0-ea34371c1b0f" />
 
