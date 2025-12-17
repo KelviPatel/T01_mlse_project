@@ -1,0 +1,12 @@
+IMAGE PATH:
+outputs/images/test_sd_basic.png
+
+CAPTION:
+a person walking down a street at night
+
+STORY:
+Darius Kade walked down the rain-soaked street, his trench coat hood pulled over his head as a gust of wind whipped his hair into his face. He looked around, scanning the neon-lit skyline for any sign of trouble. The city had changed since the last time he was here, but the slums remained the same. Smoke rose from the cracks in the buildings, where illegal reactors hummed with power like vultures. Darius had seen the files. He had seen the truth. The city's energy was not clean, but poisoned by the suffering below. And he had the proof.
+
+He reached into his pocket and pulled out a flash drive. He had hidden it inside a cigarette pack, along with a fake ID. He had to make this exchange somewhere safe, somewhere untraceable. He had to trust that Lyra-9 could decrypt the data and expose the lie. He had to hope that Captain Veyra Sol wouldn't stop him before he got there, or worse, before he got out.
+
+He didn't notice the cars swerving around him until it was too late. He heard a muffled roar behind him, and then a blinding flash of light. He felt a sharp pain in his chest, and then everything went black.
